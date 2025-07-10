@@ -4,7 +4,7 @@
   <img src="https://avatars.githubusercontent.com/u/137406623?v=4" width="120" alt="Daksh-Maahor's Avatar"/>
 </p>
 
-<h1 align="center">Hi, I'm Daksh-Maahor! 👋</h1>
+<h1 align="center">Hi, I'm Daksh Maahor! 👋</h1>
 
 <p align="center">
   <a href="https://github.com/Daksh-Maahor"><img src="https://img.shields.io/github/followers/Daksh-Maahor?label=Follow&style=social"/></a>
