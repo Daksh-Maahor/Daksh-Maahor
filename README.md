@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/Daksh-Maahor"><img src="https://img.shields.io/github/followers/Daksh-Maahor?label=Follow&style=social"/></a>
-  <a href="https://github.com/Daksh-Maahor?tab=repositories"><img src="https://img.shields.io/badge/Public%20Repos-30-blue"/></a>
+  <a href="https://github.com/Daksh-Maahor?tab=repositories"><img src="https://img.shields.io/github/repo-count/Daksh-Maahor?label=Public%20Repos&color=blue"/></a>
   <a href="mailto:daksh.dav2007@gmail.com"><img src="https://img.shields.io/badge/Email-daksh.dav2007@gmail.com-red?style=flat-square&logo=gmail"/></a>
 </p>
 
@@ -39,6 +39,11 @@ Here are some of my public repositories:
 
 | Name | Description | Language |
 |------|-------------|----------|
+| [SpoonFeedingFreshies](https://github.com/Daksh-Maahor/SpoonFeedingFreshies) | Notes and resources repository for coursework (CS-101, MA-105, etc.). | Markdown |
+| [PokeBattle](https://github.com/Daksh-Maahor/PokeBattle) | Pokemon battle-based game. | C++ |
+| [SDLTemplate](https://github.com/Daksh-Maahor/SDLTemplate) | Basic C++ + SDL project template built with CMake. | C++ |
+| [Rendering3DOpenGL](https://github.com/Daksh-Maahor/Rendering3DOpenGL) | An OpenGL-based 3D renderer. | C++ |
+| [OpenGLTemplate](https://github.com/Daksh-Maahor/OpenGLTemplate) | OpenGL template for C++ and CMake on Linux. | C++ |
 | [AI-Webpage](https://github.com/Daksh-Maahor/AI-Webpage) | An interactive AI-powered webpage demonstrating modern web technologies and artificial intelligence integration. Explore how AI can enhance user experiences directly in the browser. | HTML |
 | [BasicNeuralNet](https://github.com/Daksh-Maahor/BasicNeuralNet) | A simple yet educational implementation of a neural network from scratch in Python. Great for beginners looking to understand the fundamentals of deep learning and neural computation. | Python |
 | [BharatKoJaano](https://github.com/Daksh-Maahor/BharatKoJaano) | A fun and challenging maze game built in Java. Test your problem-solving skills and enjoy a classic puzzle experience with a modern twist. | Java |
@@ -92,12 +97,16 @@ Here are some of my public repositories:
 <details>
 <summary>Click to expand</summary>
 
-- Created repository [ShushrutaAI](https://github.com/Daksh-Maahor/ShushrutaAI) - An intelligent medical diagnosis tool built with Python and Pygame. (2025-06-14)
-- Created repository [Hyprconfig](https://github.com/Daksh-Maahor/Hyprconfig) - Nature Based Hyprland theme. (2025-06-13)
-- Added README and License to [ProgrammingQuiz](https://github.com/Daksh-Maahor/ProgrammingQuiz) (2025-06-14)
-- Created repository [LetterRecognition](https://github.com/Daksh-Maahor/LetterRecognition) (2025-05-28)
-- Created repository [DigitRecognition](https://github.com/Daksh-Maahor/DigitRecognition) (2025-05-28)
-- Created repository [AI-Webpage](https://github.com/Daksh-Maahor/AI-Webpage) (2025-05-28)
+- Pushed to [SpoonFeedingFreshies](https://github.com/Daksh-Maahor/SpoonFeedingFreshies): "Updated resources" (2025-08-25)
+- Pushed to [SpoonFeedingFreshies](https://github.com/Daksh-Maahor/SpoonFeedingFreshies): "Added Lec-4 for CS101" (2025-08-22)
+- Created repository [PokeBattle](https://github.com/Daksh-Maahor/PokeBattle) and initialized main branch (2025-08-21)
+- Pushed to [SDLTemplate](https://github.com/Daksh-Maahor/SDLTemplate): "Modified Readme" (2025-08-21)
+- Pushed to [SpoonFeedingFreshies](https://github.com/Daksh-Maahor/SpoonFeedingFreshies): "Added more notes" (2025-08-21)
+- Pushed to [SpoonFeedingFreshies](https://github.com/Daksh-Maahor/SpoonFeedingFreshies): "Added MS EE Lec-6" (2025-08-13)
+- Pushed to [SpoonFeedingFreshies](https://github.com/Daksh-Maahor/SpoonFeedingFreshies): "Added Ch-4 Integration" (2025-08-13)
+- Pushed to [SpoonFeedingFreshies](https://github.com/Daksh-Maahor/SpoonFeedingFreshies): "Added CS-105 lecs" (2025-08-13)
+- Created repository [SpoonFeedingFreshies](https://github.com/Daksh-Maahor/SpoonFeedingFreshies) and initialized main branch (2025-08-06)
+- Earlier: Created [DigitRecognition](https://github.com/Daksh-Maahor/DigitRecognition) (2025-06-27), updated [Minesweeper](https://github.com/Daksh-Maahor/Minesweeper) (2025-06-20)
 
 </details>
 
