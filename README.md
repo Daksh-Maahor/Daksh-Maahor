@@ -9,6 +9,8 @@
 <p align="center">
   <a href="https://github.com/Daksh-Maahor"><img src="https://img.shields.io/github/followers/Daksh-Maahor?label=Follow&style=social"/></a>
   <a href="https://github.com/Daksh-Maahor?tab=repositories"><img src="https://img.shields.io/github/repo-count/Daksh-Maahor?label=Public%20Repos&color=blue"/></a>
+  <a href="https://github.com/Daksh-Maahor?tab=repositories&type=source"><img src="https://img.shields.io/github/stars/Daksh-Maahor?affiliations=OWNER&style=social"/></a>
+  <a href="https://github.com/Daksh-Maahor/Daksh-Maahor/commits/main"><img src="https://img.shields.io/github/last-commit/Daksh-Maahor/Daksh-Maahor?label=Profile%20Last%20Commit"/></a>
   <a href="mailto:daksh.dav2007@gmail.com"><img src="https://img.shields.io/badge/Email-daksh.dav2007@gmail.com-red?style=flat-square&logo=gmail"/></a>
 </p>
 
