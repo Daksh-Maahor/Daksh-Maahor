@@ -68,31 +68,11 @@ More at [github.com/Daksh-Maahor?tab=repositories](https://github.com/Daksh-Maah
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daksh-Maahor&layout=compact&theme=github_dark"/>
 </p>
 
----
-
-## 🏆 Recent Activity
-
-<details>
-<summary>Click to expand</summary>
-
-- Pushed to [SpoonFeedingFreshies](https://github.com/Daksh-Maahor/SpoonFeedingFreshies): "Updated resources" (2025-08-25)
-- Pushed to [SpoonFeedingFreshies](https://github.com/Daksh-Maahor/SpoonFeedingFreshies): "Added Lec-4 for CS101" (2025-08-22)
-- Created repository [PokeBattle](https://github.com/Daksh-Maahor/PokeBattle) and initialized main branch (2025-08-21)
-- Pushed to [SDLTemplate](https://github.com/Daksh-Maahor/SDLTemplate): "Modified Readme" (2025-08-21)
-- Pushed to [SpoonFeedingFreshies](https://github.com/Daksh-Maahor/SpoonFeedingFreshies): "Added more notes" (2025-08-21)
-- Pushed to [SpoonFeedingFreshies](https://github.com/Daksh-Maahor/SpoonFeedingFreshies): "Added MS EE Lec-6" (2025-08-13)
-- Pushed to [SpoonFeedingFreshies](https://github.com/Daksh-Maahor/SpoonFeedingFreshies): "Added Ch-4 Integration" (2025-08-13)
-- Pushed to [SpoonFeedingFreshies](https://github.com/Daksh-Maahor/SpoonFeedingFreshies): "Added CS-105 lecs" (2025-08-13)
-- Created repository [SpoonFeedingFreshies](https://github.com/Daksh-Maahor/SpoonFeedingFreshies) and initialized main branch (2025-08-06)
-- Earlier: Created [DigitRecognition](https://github.com/Daksh-Maahor/DigitRecognition) (2025-06-27), updated [Minesweeper](https://github.com/Daksh-Maahor/Minesweeper) (2025-06-20)
-
-</details>
-
----
 
 ## 📬 Contact
 
 - Email: daksh.dav2007@gmail.com
+- Academic webmail: 25b0974@iitb.ac.in
 - GitHub: [Daksh-Maahor](https://github.com/Daksh-Maahor)
 
 ---
