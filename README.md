@@ -18,58 +18,31 @@
 
 ## 🧑‍💻 About Me
 
-- 💡 I am a passionate developer and open-source enthusiast.
-- 🚀 I love building projects in Python, Java, C, C++, and JavaScript.
-- 📚 I enjoy learning new technologies and solving real-world problems.
-- 🌱 Currently exploring AI, web development, and creative coding.
-- 🏆 Always open to collaboration and new ideas!
+- Builder across Python, Java, C, C++, JavaScript, and the web stack.
+- Currently diving deeper into AI-assisted creative coding and graphics.
+- Enjoy teaching through notes, templates, and small games.
+- Always open to pairing, feedback, and new ideas.
 
 ---
 
-## 📊 GitHub Stats
+## 🎯 What I'm focused on (2026)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Daksh-Maahor&show_icons=true&theme=github_dark&hide=prs"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daksh-Maahor&layout=compact&theme=github_dark"/>
-</p>
+- Solidifying C++/OpenGL rendering patterns for hobby engines.
+- Shipping small AI-infused web experiments.
+- Keeping study notes and starter templates tidy for others to reuse.
 
 ---
 
 ## 🚩 Featured Projects
 
-Here are some of my public repositories:
+- [PokeBattle](https://github.com/Daksh-Maahor/PokeBattle) — C++ Pokémon-style battle game with turn-based logic.
+- [Rendering3DOpenGL](https://github.com/Daksh-Maahor/Rendering3DOpenGL) — Lightweight OpenGL renderer experiments.
+- [SpoonFeedingFreshies](https://github.com/Daksh-Maahor/SpoonFeedingFreshies) — Structured coursework notes and resources.
+- [AI-Webpage](https://github.com/Daksh-Maahor/AI-Webpage) — Interactive AI-powered landing page in the browser.
+- [BasicNeuralNet](https://github.com/Daksh-Maahor/BasicNeuralNet) — From-scratch neural net for learning fundamentals.
+- [SDLTemplate](https://github.com/Daksh-Maahor/SDLTemplate) — C++/SDL starter with CMake to spin up games quickly.
 
-| Name | Description | Language |
-|------|-------------|----------|
-| [SpoonFeedingFreshies](https://github.com/Daksh-Maahor/SpoonFeedingFreshies) | Notes and resources repository for coursework (CS-101, MA-105, etc.). | Markdown |
-| [PokeBattle](https://github.com/Daksh-Maahor/PokeBattle) | Pokemon battle-based game. | C++ |
-| [SDLTemplate](https://github.com/Daksh-Maahor/SDLTemplate) | Basic C++ + SDL project template built with CMake. | C++ |
-| [Rendering3DOpenGL](https://github.com/Daksh-Maahor/Rendering3DOpenGL) | An OpenGL-based 3D renderer. | C++ |
-| [OpenGLTemplate](https://github.com/Daksh-Maahor/OpenGLTemplate) | OpenGL template for C++ and CMake on Linux. | C++ |
-| [AI-Webpage](https://github.com/Daksh-Maahor/AI-Webpage) | An interactive AI-powered webpage demonstrating modern web technologies and artificial intelligence integration. Explore how AI can enhance user experiences directly in the browser. | HTML |
-| [BasicNeuralNet](https://github.com/Daksh-Maahor/BasicNeuralNet) | A simple yet educational implementation of a neural network from scratch in Python. Great for beginners looking to understand the fundamentals of deep learning and neural computation. | Python |
-| [BharatKoJaano](https://github.com/Daksh-Maahor/BharatKoJaano) | A fun and challenging maze game built in Java. Test your problem-solving skills and enjoy a classic puzzle experience with a modern twist. | Java |
-| [CellularAutomaton](https://github.com/Daksh-Maahor/CellularAutomaton) | A Java-based simulation of Conway's Game of Life. Visualize and experiment with cellular automata and discover the beauty of emergent complexity. | Java |
-| [CellularAutomatonC](https://github.com/Daksh-Maahor/CellularAutomatonC) | A C language implementation of Conway's Game of Life. Dive into low-level programming and explore the fascinating world of cellular automata. | C |
-| [CellularAutomatonCPP](https://github.com/Daksh-Maahor/CellularAutomatonCPP) | Conway's Game of Life, reimagined in C++. Experience efficient simulation and object-oriented design in this classic computational model. | C++ |
-| [ChaosDotsSimulation](https://github.com/Daksh-Maahor/ChaosDotsSimulation) | A Java simulation visualizing chaotic systems with moving dots. Perfect for exploring the unpredictability and beauty of chaos theory. | Java |
-| [Checkers](https://github.com/Daksh-Maahor/Checkers) | A fully playable Checkers game in Java. Enjoy classic gameplay, challenge your friends, or study the game's logic and AI. | Java |
-| [CPongAI](https://github.com/Daksh-Maahor/CPongAI) | A C-based Pong game featuring AI opponents. Learn about game development and simple artificial intelligence in a retro arcade setting. | C |
-| [Daksh-Maahor](https://github.com/Daksh-Maahor/Daksh-Maahor) | My personal GitHub profile repository. Find my profile README, configuration files, and everything that powers my GitHub presence. | - |
-| [DigitRecognition](https://github.com/Daksh-Maahor/DigitRecognition) | A Python project for recognizing handwritten digits using machine learning. Includes data preprocessing, model training, and evaluation. | Python |
-| [DigitRecognitionCPP](https://github.com/Daksh-Maahor/DigitRecognitionCPP) | Handwritten digit recognition implemented in C++. Explore computer vision and machine learning with efficient C++ code. | C++ |
-| [DoublePendulum](https://github.com/Daksh-Maahor/DoublePendulum) | A Java simulation of the double pendulum system. Visualize chaotic motion and study the fascinating physics of nonlinear dynamics. | Java |
-| [EvolutionSimulationC](https://github.com/Daksh-Maahor/EvolutionSimulationC) | Simulate evolution and natural selection in C. Experiment with digital organisms and observe emergent behaviors over generations. | C |
-| [FlappyBirdJava](https://github.com/Daksh-Maahor/FlappyBirdJava) | A Java recreation of the popular Flappy Bird game. Enjoy endless fun and learn about game mechanics and GUI programming. | Java |
-| [FourierTransform](https://github.com/Daksh-Maahor/FourierTransform) | Visualize and understand the Fourier Transform in Java. A great educational tool for signal processing and frequency analysis. | Java |
-| [Ganitagya](https://github.com/Daksh-Maahor/Ganitagya) | A Python tool for solving polynomial equations. Useful for students and professionals needing quick and accurate solutions. | Python |
-| [HealthCareWebsite](https://github.com/Daksh-Maahor/HealthCareWebsite) | A modern healthcare website built with JavaScript. Features appointment booking, health resources, and a user-friendly interface. | JavaScript |
-| [Hyprconfig](https://github.com/Daksh-Maahor/Hyprconfig) | Custom configuration files and themes for Hyprland, inspired by nature. Enhance your Linux desktop with beautiful, personalized setups. | CSS |
-| [Java3DEngine](https://github.com/Daksh-Maahor/Java3DEngine) | 3D Java Engine | Java |
-| [Manimations](https://github.com/Daksh-Maahor/Manimations) | Manim Animations | Python |
-| [Minesweeper](https://github.com/Daksh-Maahor/Minesweeper) | Minesweeper Java Game | Java |
-| [LetterRecognition](https://github.com/Daksh-Maahor/LetterRecognition) | Letter Recognition through Python | Python |
-| [TombOfTheMask](https://github.com/Daksh-Maahor/TombOfTheMask) | TOTM CPP | C++ |
+More at [github.com/Daksh-Maahor?tab=repositories](https://github.com/Daksh-Maahor?tab=repositories).
 
 ---
 
@@ -87,10 +60,12 @@ Here are some of my public repositories:
 
 ---
 
-## 📬 Contact
+## 📊 GitHub Stats
 
-- 📧 Email: daksh.dav2007@gmail.com
-- 🐙 GitHub: [Daksh-Maahor](https://github.com/Daksh-Maahor)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Daksh-Maahor&show_icons=true&theme=github_dark&hide=prs"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daksh-Maahor&layout=compact&theme=github_dark"/>
+</p>
 
 ---
 
@@ -114,6 +89,13 @@ Here are some of my public repositories:
 
 ---
 
+## 📬 Contact
+
+- Email: daksh.dav2007@gmail.com
+- GitHub: [Daksh-Maahor](https://github.com/Daksh-Maahor)
+
+---
+
 <p align="center">
   <i>Thanks for visiting my profile! ⭐️</i>
-</p> 
+</p>
