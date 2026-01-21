@@ -39,6 +39,7 @@
 - [Rendering3DOpenGL](https://github.com/Daksh-Maahor/Rendering3DOpenGL) — Lightweight OpenGL renderer experiments.
 - [SpoonFeedingFreshies](https://github.com/Daksh-Maahor/SpoonFeedingFreshies) — Structured coursework notes and resources.
 - [AI-Webpage](https://github.com/Daksh-Maahor/AI-Webpage) — Interactive AI-powered landing page in the browser.
+- [WIDS-2025-Intro-to-Reinforcement-Learning](https://github.com/Daksh-Maahor/WIDS-2025-Intro-to-Reinforcement-Learning) — Winter in Data Science cohort project introducing RL fundamentals with weekly theory, resources, and hands-on puzzles.
 - [BasicNeuralNet](https://github.com/Daksh-Maahor/BasicNeuralNet) — From-scratch neural net for learning fundamentals.
 - [SDLTemplate](https://github.com/Daksh-Maahor/SDLTemplate) — C++/SDL starter with CMake to spin up games quickly.
 
